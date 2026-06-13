@@ -19,7 +19,7 @@
           revision="fourteen" />
 
   <remote name="pixel-devices-blobs"
-          fetch="https://github.com/PixelExperienceArchive"
+          fetch="https://github.com/PixelExperience-Blobs"
           revision="fourteen" />
 
   <!-- External repos -->
