@@ -166,6 +166,7 @@
 
   <!-- Prebuilts -->
   <remove-project name="platform/prebuilts/build-tools" />
+  <remove-project name="platform/prebuilts/remoteexecution-client" />
 
   <!-- System repos -->
   <remove-project name="platform/system/bpf" />

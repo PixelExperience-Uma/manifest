@@ -104,6 +104,7 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="pixel" clone-depth="1" />
+  <project path="prebuilts/remoteexecution-client" name="platform/prebuilts/remoteexecution-client" remote="aosp" revision="android17-release" clone-depth="1" />
 
   <!-- System Repos -->
   <project path="system/bpf" name="system_bpf" remote="pixel" />
