@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LOS21-pre-QPR2/android_cts" path="cts" remote="github" revision="lineage-21.0" groups="cts,pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_external_dng_sdk" path="external/dng_sdk" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_external_freetype" path="external/freetype" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_external_giflib" path="external/giflib" remote="github" revision="lineage-21.0" groups="pdk,qcom_msm8x26"/>
+  <project name="LOS21-pre-QPR2/android_external_libpng" path="external/libpng" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_external_skia" path="external/skia" remote="github" revision="lineage-21.0" groups="pdk,qcom_msm8x26"/>
+  <project name="LOS21-pre-QPR2/android_external_sonivox" path="external/sonivox" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_external_sqlite" path="external/sqlite" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_frameworks_libs_modules-utils" path="frameworks/libs/modules-utils" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_frameworks_libs_net" path="frameworks/libs/net" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_hardware_st_nfc" path="hardware/st/nfc" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_libcore" path="libcore" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_packages_apps_Car_Settings" path="packages/apps/Car/Settings" remote="github" revision="lineage-21.0" groups="pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_apps_CertInstaller" path="packages/apps/CertInstaller" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_apps_KeyChain" path="packages/apps/KeyChain" remote="github" revision="lineage-21.0" groups="pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_apps_ManagedProvisioning" path="packages/apps/ManagedProvisioning" remote="github" revision="lineage-21.0" groups="pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_apps_TV" path="packages/apps/TV" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_packages_apps_TvSettings" path="packages/apps/TvSettings" remote="github" revision="lineage-21.0" groups="pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_modules_CellBroadcastService" path="packages/modules/CellBroadcastService" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_packages_modules_HealthFitness" path="packages/modules/HealthFitness" remote="github" revision="lineage-21.0" groups="pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_modules_IntentResolver" path="packages/modules/IntentResolver" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_packages_modules_RemoteKeyProvisioning" path="packages/modules/RemoteKeyProvisioning" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_modules_StatsD" path="packages/modules/StatsD" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_modules_Virtualization" path="packages/modules/Virtualization" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_providers_TelephonyProvider" path="packages/providers/TelephonyProvider" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_services_BuiltInPrintService" path="packages/services/BuiltInPrintService" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_services_Car" path="packages/services/Car" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_packages_services_Mms" path="packages/services/Mms" remote="github" revision="lineage-21.0" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="LOS21-pre-QPR2/android_system_incremental_delivery" path="system/incremental_delivery" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_system_keymint" path="system/keymint" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_system_libfmq" path="system/libfmq" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_system_libufdt" path="system/libufdt" remote="github" revision="lineage-21.0" groups="pdk"/>
+  <project name="LOS21-pre-QPR2/android_system_nfc" path="system/nfc" remote="github" revision="lineage-21.0" groups="pdk"/>
+</manifest>

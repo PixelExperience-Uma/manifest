@@ -1287,4 +1287,7 @@
   <include name="snippets/pixel-extras.xml" />
   <include name="snippets/pixel-caf.xml" />
 
+  <!-- Add LOS21-pre-QPR2 repos -->
+  <include name="snippets/los21-pre-qpr2.xml" />
+
 </manifest>
